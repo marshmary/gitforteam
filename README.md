@@ -30,7 +30,7 @@ Why? An application will be developed by a team managed by a PM, this means they
 
 Why? The project has delivery plan to release new packages. So there is also no required for multi-stage environment application.
 
-![branching pattern](imgs\branching-pattern.png)
+<img src="imgs\branching-pattern.png">
 
 ### How to
 
