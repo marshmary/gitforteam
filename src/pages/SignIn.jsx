@@ -5,6 +5,8 @@ import Header from '../partials/Header';
 import Banner from '../partials/Banner';
 
 function SignIn() {
+  // Some functions may be reused in Sign up feature
+
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
 
