@@ -16,6 +16,16 @@ Delivery plan:
 - 1 Patch Package/4 weeks
 - 1 Production Package/3 months
 
+Required using:
+
+- [x] cherry-pick
+- [ ] rebase
+- [x] merge
+- [x] tag
+- [x] branch
+- [x] pull request
+- [x] code review
+
 ## Repository set up:
 
 ### Access control
