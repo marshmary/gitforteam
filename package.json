@@ -1,6 +1,6 @@
 {
   "name": "simple-light-react",
-  "version": "1.0.1-HOTFIX",
+  "version": "1.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
