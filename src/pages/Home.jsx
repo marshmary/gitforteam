@@ -10,6 +10,7 @@ import Footer from '../partials/Footer';
 import Banner from '../partials/Banner';
 
 // hotfix content
+// hotfix 1.0.1 content
 
 function Home() {
   return (
